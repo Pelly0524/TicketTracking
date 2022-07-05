@@ -1,0 +1,3 @@
+Project的dataBase使用xampp架設mysql
+需要有資料庫連接才可避免Error開啟Project
+將資料夾內的sql檔匯入即可得到模擬資料庫

@@ -1,0 +1,88 @@
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\appsettings.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.staticwebassets.runtime.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.exe
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.deps.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.runtimeconfig.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.pdb
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.AssemblyReference.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.AssemblyInfoInputs.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.AssemblyInfo.cs
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.CoreCompileInputs.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.RazorAssemblyInfo.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.RazorAssemblyInfo.cs
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\scopedcss\bundle\TicketTracking.styles.css
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\refint\TicketTracking.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.pdb
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.genruntimeconfig.cache
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\ref\TicketTracking.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pelly\source\repos\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.CopyComplete
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\appsettings.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.staticwebassets.runtime.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.exe
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.deps.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.runtimeconfig.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\TicketTracking.pdb
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.AssemblyReference.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.AssemblyInfoInputs.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.AssemblyInfo.cs
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.CoreCompileInputs.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.RazorAssemblyInfo.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.RazorAssemblyInfo.cs
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\scopedcss\bundle\TicketTracking.styles.css
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.csproj.CopyComplete
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\refint\TicketTracking.dll
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.pdb
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\TicketTracking.genruntimeconfig.cache
+C:\Users\pelly\Desktop\Github Repositry\TicketTracking\Task2\TicketTracking\TicketTracking\obj\Debug\net6.0\ref\TicketTracking.dll
